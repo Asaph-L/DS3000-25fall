@@ -1,0 +1,24 @@
+﻿# === data & large archives (do NOT commit) ===
+data/
+*.zip
+*.tar
+*.tar.gz
+*.7z
+*.rar
+
+# === Python caches / notebooks ===
+__pycache__/
+.ipynb_checkpoints/
+*.log
+
+# === IDE / editor ===
+.idea/
+.vscode/
+
+# === Virtual env & secrets ===
+venv/
+.env
+
+# === OS noise ===
+.DS_Store
+Thumbs.db
