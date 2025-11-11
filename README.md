@@ -17,3 +17,13 @@ Expand-Archive -Path "data/plant-disease-detection.zip" -DestinationPath "data" 
 # if an extra 'Dataset/' folder appears:
 #   Move-Item data/Dataset/* data/ -Force; Remove-Item data/Dataset -Recurse -Force
 Remove-Item "data/plant-disease-detection.zip"
+
+
+Tasks assign:
+
+1. Jackie
+2. Jim
+3. Edward
+4. Jackie & Jim
+5. Desmond
+6. Aspha & Edward
