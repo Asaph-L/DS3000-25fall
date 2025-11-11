@@ -7,7 +7,7 @@ import torchvision.transforms as T
 
 # --- config ---
 ROOT = os.path.abspath(os.path.join(os.path.dirname(__file__), ".."))
-DATA_DIR = os.path.join(ROOT, "data")
+DATA_DIR = os.path.join(ROOT, "data", "archive", "Dataset")
 IMG_SIZE = 224
 BATCH_SIZE = 64
 VAL_SPLIT = 0.2
