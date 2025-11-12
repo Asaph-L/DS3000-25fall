@@ -1,5 +1,5 @@
 ﻿# === data & large archives (do NOT commit) ===
-data/
+data/archive/data/
 *.zip
 *.tar
 *.tar.gz
