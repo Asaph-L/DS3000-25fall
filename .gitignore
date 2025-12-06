@@ -1,5 +1,5 @@
 ﻿# === data & large archives (do NOT commit) ===
-data/archive/data/
+data/
 *.zip
 *.tar
 *.tar.gz
@@ -22,3 +22,6 @@ venv/
 # === OS noise ===
 .DS_Store
 Thumbs.db
+
+# === Exported files ===
+*.html
