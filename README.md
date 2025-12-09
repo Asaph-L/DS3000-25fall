@@ -1,3 +1,16 @@
+## Group Members
+
+Junjie Mo jmo56@uwo.ca
+
+Edward Xu mxu528@uwo.ca
+
+Junshen Liang  jlian347@uwo.ca
+
+Guanlin Zhu gzhu27@uwo.ca
+
+Zhengyang Yuan  zyuan228@uwo.ca
+
+
 ## Project Overview
 
 This project is a deep learning pipeline for plant disease classification using leaf images. It includes data cleaning, model training (ResNet50, EfficientNet-B0, CNN-20), evaluation, and report generation. The workflow is designed for reproducible experiments and comprehensive analysis, including training history, cross-validation, and visualizations.
